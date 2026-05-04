@@ -1,4 +1,4 @@
-# Hi there, I'm Gaurav Singh 👋
+# Hi there, I'm Arman Gaurav 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Hackathon+Enthusiast;Always+Learning+and+Building" alt="Typing SVG" />
@@ -42,9 +42,14 @@ I am a passionate **Full Stack Developer** with a strong interest in building sc
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gauravsingh0714&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravsingh0714&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gauravsingh0714&theme=radical" />
 </div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravsingh0714&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Gauravsingh0714&theme=radical&hide_border=true" />
+</div>
+
 
 <br/>
 
