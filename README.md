@@ -6,12 +6,12 @@
 
 <br/>
 
-I am a passionate **Full Stack Developer** with a strong interest in building scalable, modern web applications. I love participating in hackathons (recently built the *Rail DSS* for the **Smart India Hackathon 2025**) and exploring new technologies.
+I am a passionate **Full Stack Developer** with a strong interest in building scalable, modern web applications. I love exploring new technologies.
 
 ### 🚀 About Me
 - 🔭 I’m currently working on full-stack web applications using **React, Django, and Node.js**.
 - 🌱 I’m currently diving deeper into **AI integrations** (like AI HelpDesks) and modern frontend architectures.
-- 👯 I’m looking to collaborate on impactful open-source projects or innovative hackathon ideas.
+- 👯 I’m looking to collaborate on impactful open-source projects or innovative ideas.
 - ⚡ Fun fact: I love building complex UIs and optimizing backend performance!
 
 ---
