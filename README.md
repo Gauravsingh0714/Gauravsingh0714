@@ -41,15 +41,6 @@ I am a passionate **Full Stack Developer** and **AI Enthusiast** with a strong i
 
 ---
 
-### 🌟 Featured Project
-
-<div align="center">
-  <h3><a href="https://github.com/Gauravsingh0714/AI-Powered-Sign-Language-Translator">🤟 AI-Powered Sign Language Translator</a></h3>
-  <p>A real-time computer vision system that tracks hand gestures from a webcam feed and translates them to sign language text using OpenCV and a Keras Deep Learning model.</p>
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
