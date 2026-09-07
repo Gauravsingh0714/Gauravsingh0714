@@ -10,7 +10,6 @@ I am a passionate **Full Stack Developer** and **AI Enthusiast** with a strong i
 
 ### 🚀 About Me
 - 🔭 I’m currently working on full-stack web applications using **React, Django, and Node.js**.
-- 🌱 I’m currently diving deeper into **Computer Vision, Deep Learning (TensorFlow/Keras),** and modern frontend architectures.
 - 👯 I’m looking to collaborate on impactful open-source projects or innovative ideas.
 - ⚡ Fun fact: I love building complex UIs and optimizing backend performance!
 
